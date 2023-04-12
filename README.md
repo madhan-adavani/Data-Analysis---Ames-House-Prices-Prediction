@@ -9,5 +9,7 @@ This repository contains a data analysis project for predicting house prices in 
 
 ## Repository Contents
 - data/: This directory contains the dataset used in the project, including the raw data in CSV format and any processed or intermediate data files.
-- notebooks/: This directory contains the Jupyter notebooks that document the data analysis process, including data exploration, data preprocessing, feature engineering,   model training, model evaluation, and model interpretation.
+- DataAnalysis.ipynb/: This notebook contains EDA part.
+- FeatureEngineering.ipynb/: This notebook contains the Feature Engineering part.
+- FeatureSelection.ipynb/: This notebook contains the Feature Selection part
 - README.md: This README file that provides an overview of the project, repository contents, and usage instructions.
